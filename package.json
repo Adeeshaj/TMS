@@ -1,0 +1,14 @@
+{
+  "name": "teacher_management_system",
+  "version": "1.0.0",
+  "description": "Desktop application to keep and visualize teachers data",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adeesha Jayasooriya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.3"
+  }
+}
